@@ -5,10 +5,14 @@
 }
 
 .logo h1 {
+    font-size: 50px;
     text-align: center;
 }
 
 .menu {
+    
+    font-size: 20px;
+    margin-top: 20px;
 
 }
 
@@ -18,11 +22,25 @@
 }
 
 .menu ul li {
+    background-color: white;
     list-style: none;
 }
 
+.menu ul li a {
+    color: #430C48;
+}
+
+.menu ul li a {
+    color: white;
+}
+
+.menu ul li a:hover {
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
 #topo {
-    font-color: white;
+    color: white;
     background-color: #430C48;
 }
 
