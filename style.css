@@ -22,13 +22,15 @@
 }
 
 
-#contet h1 {
+#content h1 {
     text-align: center;
 }
 
 #content1 {
     display: flex;
     justify-content: space-around;
+
+    margin-bottom: 50px;
 }
 
 #content2 {
