@@ -21,6 +21,16 @@
     list-style: none;
 }
 
+#legenda {
+    display: flex;
+    justify-content: space-around;
+}
+
+.legenda-t {
+    width: 200px;
+    height: 100px;
+}
+
 
 #content h1 {
     text-align: center;
