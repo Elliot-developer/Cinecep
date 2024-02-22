@@ -72,6 +72,18 @@
     font-weight: 400;
 }
 
+#filmes {
+    height: 300px;
+}
+
+#series {
+    height: 300px;
+}
+
+#reality {
+    height: 300px;
+}
+
 #filmes h1 {
     text-align: center;
 }
