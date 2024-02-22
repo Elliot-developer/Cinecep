@@ -40,7 +40,7 @@
 
 
 .menu ul li:hover {
-    padding: 10px;
+    transform: scale(1.1);
     transition: all 0.5s;
 }
 
@@ -103,6 +103,8 @@
 }
 
 #footer {
+    display: flex;
+    justify-content: space-between;
     height: 100%;
     background-color: #430C48;
 }
