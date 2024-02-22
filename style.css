@@ -21,7 +21,7 @@
     list-style: none;
 }
 
-#legenda {
+.legenda {
     display: flex;
     justify-content: space-around;
 }
