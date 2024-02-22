@@ -21,7 +21,13 @@
     list-style: none;
 }
 
+#topo {
+    font-color: white;
+    background-color: #430C48;
+}
+
 .legenda {
+    margin-top: 150px;
     display: flex;
     justify-content: space-around;
 }
