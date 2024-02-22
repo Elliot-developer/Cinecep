@@ -3,3 +3,22 @@
     padding: 0; 
 
 }
+
+.logo h1 {
+    text-align: center;
+}
+
+.menu {
+
+}
+
+.menu ul {
+
+}
+
+.menu ul li {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
