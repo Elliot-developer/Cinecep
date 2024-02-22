@@ -34,6 +34,12 @@
 }
 
 #content2 {
+
+    margin-top: 50px;
     display: flex;
     justify-content: space-around;
+}
+
+#footer {
+    background-color: #430C48;
 }
