@@ -50,6 +50,11 @@
     background-color: #430C48;
 }
 
+#topo img {
+    width: 100px;
+    height: 100px;
+}
+
 .legenda {
     height: 500px;
     margin-top: 150px;
@@ -73,15 +78,15 @@
 }
 
 #filmes {
-    height: 300px;
+    height: 500px;
 }
 
 #series {
-    height: 300px;
+    height: 500px;
 }
 
 #reality {
-    height: 300px;
+    height: 500px;
 }
 
 #filmes h1 {
