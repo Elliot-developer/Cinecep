@@ -56,6 +56,11 @@
     justify-content: space-around;
 }
 
+.legenda img {
+    width: 300px;
+    height: 300px;
+}
+
 .legenda-t {
     width: 400px;
     height: 100px;
