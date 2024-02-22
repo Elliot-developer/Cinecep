@@ -22,17 +22,17 @@
 }
 
 .menu ul li {
+    padding: 15px;
     background-color: white;
     list-style: none;
 }
 
 .menu ul li a {
+    margin-bottom: 10px;
+    text-decoration: none;
     color: #430C48;
 }
 
-.menu ul li a {
-    color: white;
-}
 
 .menu ul li a:hover {
     transform: scale(1.1);
@@ -54,6 +54,11 @@
 .legenda-t {
     width: 200px;
     height: 100px;
+}
+
+.legenda-t p {
+    font-size: 20px;
+    font-weight: 400;
 }
 
 
