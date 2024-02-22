@@ -13,12 +13,12 @@
 }
 
 .menu ul {
-
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .menu ul li {
-    display: flex;
-    justify-content: space-evenly;
+
     list-style: none;
 }
 
