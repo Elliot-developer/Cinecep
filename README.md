@@ -1,3 +1,1 @@
 # Cinecep
-
-# cinecep.vercel.app
