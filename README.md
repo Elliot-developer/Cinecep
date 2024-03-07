@@ -1,3 +1,3 @@
 # Cinecep
 
-cinecep.vercel.app
+# cinecep.vercel.app
