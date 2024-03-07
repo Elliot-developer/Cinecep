@@ -1,6 +1,6 @@
 # Cinecep
 
 Colaboradores:
-Wellington
-Ana 
-Giulia
+Wellington<br>
+Ana <br>
+Giulia<br>
