@@ -8,5 +8,7 @@ display: flex;
 .cabeçalho{
     <h1 style="
     font-size: 80px;
+    width: 180%;
 ">CINECEP</h1>
 }
+
