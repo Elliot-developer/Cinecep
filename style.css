@@ -3,15 +3,26 @@ body {
     color: white;
 } 
 
-#cabeçalho{
+#cabecalho{
     display: flex;
     justify-content: space-around;
 }
+
+#cabecalho ul {
+    display: inline-block;
+}
+
+#cabecalho ul li a {
+    color: white;
+    border: none;
+    text-decoration: none;
+}
+
 #content{
    
 }
 
-#filmes {
+#filmes{
 
 }
 
