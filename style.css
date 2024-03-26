@@ -38,7 +38,8 @@ body {
 }
 
 #filmes{
-
+display: flex;
+justify-content: space-around;
 }
 
 #filmes h1{
