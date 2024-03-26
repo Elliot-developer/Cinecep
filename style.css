@@ -9,7 +9,8 @@ body {
 }
 
 #cabecalho ul {
-    display: inline-block;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 #cabecalho ul a {
@@ -19,7 +20,8 @@ body {
 }
 
 #cabecalho ul a li {
-    display: inline-block;
+    display: flex;
+    justify-content: space-evenly;
 
 }
 
