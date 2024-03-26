@@ -1,11 +1,12 @@
 body {
     background-color: blueviolet;
+    color: white;
 } 
 
 .cabeçalho{
-display: flex;
+
 }
 .menu{
-    display: flex;
+   
     }
     
