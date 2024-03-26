@@ -26,6 +26,10 @@ body {
 
 }
 
+.text {
+    width: 100px;
+}
+
 #content{
     display: flex;
     justify-content: space-between;
