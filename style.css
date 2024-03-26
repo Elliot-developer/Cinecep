@@ -12,7 +12,7 @@ body {
     display: inline-block;
 }
 
-#cabecalho ul li a {
+#cabecalho ul a {
     color: white;
     border: none;
     text-decoration: none;
