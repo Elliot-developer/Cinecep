@@ -18,6 +18,11 @@ body {
     text-decoration: none;
 }
 
+#cabecalho ul a li {
+    display: inline-block;
+
+}
+
 #content{
    
 }
