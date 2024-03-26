@@ -20,6 +20,7 @@ body {
 }
 
 #cabecalho ul a li {
+    padding: 10px;
     display: flex;
     justify-content: space-evenly;
 
