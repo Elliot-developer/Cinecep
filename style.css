@@ -3,10 +3,19 @@ body {
     color: white;
 } 
 
-.cabeçalho{
+#cabeçalho{
+    display: flex;
+    justify-content: space-around;
+}
+#content{
+   
+}
+
+#filmes {
 
 }
-.menu{
-   
-    }
+
+#final {
+
+}
     
