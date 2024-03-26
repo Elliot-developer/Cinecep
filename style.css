@@ -27,7 +27,8 @@ body {
 }
 
 #content{
-   
+    display: flex;
+    justify-content: space-between;
 }
 
 #filmes{
