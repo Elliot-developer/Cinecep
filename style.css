@@ -40,8 +40,6 @@ body {
 
 #filmes{
     width: 100%;
-display: flex;
-justify-content: space-around;
 }
 
 #filmes h1{
