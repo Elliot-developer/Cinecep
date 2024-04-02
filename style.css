@@ -91,6 +91,11 @@ body {
     height: 180px;
 }
 
+.c-txt2 {
+    border: 1px solid red;
+
+}
+
 .c-txt2 h2 {
     align-items: center;
 
