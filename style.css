@@ -14,11 +14,16 @@ body {
 }
 
 #cabecalho ul {
+    list-style-type: none;
     display: flex;
     justify-content: space-evenly;
 }
 
 #cabecalho ul a {
+    background-color: #430C48;
+
+    color: white;
+    list-style: none;
     text-transform: uppercase;
     padding: 12px;
     font-size: 22px;
@@ -27,7 +32,6 @@ body {
 }
 
 #cabecalho ul a li {
-    background-color: #430C48;
     list-style: none;
     padding: 10px;
     display: flex;
