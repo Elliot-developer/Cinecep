@@ -19,6 +19,7 @@ body {
 }
 
 #cabecalho ul a {
+    text-transform: uppercase;
     padding: 12px;
     font-size: 22px;
     border: none;
@@ -26,6 +27,7 @@ body {
 }
 
 #cabecalho ul a li {
+    list-style: none;
     padding: 10px;
     display: flex;
     justify-content: space-evenly;
