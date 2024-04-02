@@ -20,8 +20,10 @@ body {
 }
 
 #cabecalho ul a {
+    padding: 5px;
     background-color: #430C48;
-
+    width: 200px;
+    height: 20px;
     color: white;
     list-style: none;
     text-transform: uppercase;
@@ -32,8 +34,7 @@ body {
 
 #cabecalho ul a li {
     list-style: none;
-    width: 200px;
-    height: 20px;
+  
     display: flex;
     justify-content: space-evenly;
 
