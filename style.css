@@ -104,3 +104,8 @@ body {
     width: 120px;
     height: 100pxpx;
 }
+
+#final h2 {
+    font-size: 40px;
+    color: #430C48;
+}
