@@ -22,8 +22,9 @@ body {
 #cabecalho ul a {
     padding: 5px;
     background-color: #430C48;
-    width: 200px;
-    height: 20px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;    
     color: white;
     list-style: none;
     text-transform: uppercase;
