@@ -39,6 +39,7 @@ body {
 }
 
 #filmes{
+    width: 100%;
 display: flex;
 justify-content: space-around;
 }
@@ -52,6 +53,7 @@ justify-content: space-around;
 }
     
 .c-txt {
+    margin-bottom: 20px ;
     display: flex;
     justify-content: space-around;
 }
