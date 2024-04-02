@@ -4,8 +4,7 @@ body {
 } 
 
 #cabecalho{
-    display: flex;
-    justify-content: space-around;
+    
 }
 
 #cabecalho ul {
@@ -16,7 +15,6 @@ body {
 #cabecalho ul a {
     padding: 12px;
     font-size: 22px;
-    color: white;
     border: none;
     text-decoration: none;
 }
@@ -44,6 +42,7 @@ body {
 
 #filmes h1{
     text-align: center;
+    font-size: 40px;
 }
 
 #final {
