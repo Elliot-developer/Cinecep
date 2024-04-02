@@ -14,6 +14,7 @@ body {
 }
 
 #cabecalho ul a {
+    padding: 12px;
     font-size: 22px;
     color: white;
     border: none;
