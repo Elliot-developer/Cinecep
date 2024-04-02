@@ -82,6 +82,7 @@ body {
 }
 
 .c-txt img {
+    padding: 10px;
     align-items: center;
     image-orientation: unset;
     width: 150px;
