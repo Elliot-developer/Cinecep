@@ -85,8 +85,17 @@ body {
 
 .c-txt img {
     padding: 10px;
-    align-items: center;
+    
     image-orientation: unset;
     width: 150px;
     height: 180px;
+}
+
+.c-txt2 h2 {
+    align-items: center;
+
+}
+
+.c-txt2  img {
+    align-items: center;
 }
