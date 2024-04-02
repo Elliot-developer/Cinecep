@@ -81,6 +81,7 @@ body {
 }
 
 .c-txt img {
-    width: 100px;
-    height: 200px;
+    image-orientation: unset;
+    width: 150px;
+    height: 1800px;
 }
