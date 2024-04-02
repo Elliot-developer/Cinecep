@@ -67,7 +67,6 @@ body {
 }
     
 #c-txt {
-    border: 1px solid red;
 
     width: 100%;
     margin-bottom: 20px ;
@@ -86,7 +85,6 @@ body {
 #c-txt .c-txt2 {
     text-align: center;
     align-items: center;
-    border: 1px solid red;
 
 }
 
