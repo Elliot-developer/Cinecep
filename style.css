@@ -73,11 +73,6 @@ body {
     justify-content: space-around;
 }
 
-#c-txt h2 {
-
-   
-}
-
 #c-txt img {
     padding: 10px;
     
@@ -94,8 +89,6 @@ body {
 }
 
 #c-txt .c-txt2 p {
-    padding-left: 5px;
-    padding-right: 5px;
     background-color: #2c292c;
     color: white;
     font-size: 30px;
