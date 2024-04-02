@@ -58,6 +58,8 @@ body {
 }
 
 .c-txt h2 {
+    width: 50px;
+    height: 25px;
     background-color: blueviolet;
     color: white;
 }
