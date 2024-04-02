@@ -99,6 +99,9 @@ body {
 }
 
 .c-txt2 h2 {
+    z-index: 0;
+    top: 50%;
+    right: 50%;
     align-items: center;
 
 }
