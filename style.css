@@ -27,6 +27,7 @@ body {
 }
 
 #cabecalho ul a li {
+    background-color: #430C48;
     list-style: none;
     padding: 10px;
     display: flex;
