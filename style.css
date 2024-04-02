@@ -53,5 +53,5 @@ justify-content: space-around;
     
 .c-txt {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
