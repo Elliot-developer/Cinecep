@@ -92,6 +92,7 @@ body {
 }
 
 .c-txt2 {
+    text-align: center;
     border: 1px solid red;
 
 }
