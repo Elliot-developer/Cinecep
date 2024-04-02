@@ -64,7 +64,7 @@ body {
 
 }
     
-.c-txt {
+#c-txt {
     border: 1px solid red;
 
     width: 100%;
@@ -73,7 +73,7 @@ body {
     justify-content: space-around;
 }
 
-.c-txt h2 {
+#c-txt h2 {
     align-items: center;
     padding: 5px;
     text-align: center;
@@ -83,7 +83,7 @@ body {
     color: white;
 }
 
-.c-txt img {
+#c-txt img {
     padding: 10px;
     
     image-orientation: unset;
@@ -91,21 +91,17 @@ body {
     height: 180px;
 }
 
-.c-txt2 {
+#c-txt .c-txt2 {
     text-align: center;
     align-items: center;
     border: 1px solid red;
 
 }
 
-.c-txt2 h2 {
-    z-index: 0;
-    top: 50%;
-    right: 50%;
-    align-items: center;
+#c-txt .c-txt2 h2 {
+    text-align: center;
 
 }
 
-.c-txt2  img {
-    align-items: center;
+#c-txt .c-txt2  img {
 }
