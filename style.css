@@ -57,8 +57,9 @@ body {
 }
 
 .c-txt h2 {
+    padding: 5px;
     text-align: center;
-    width: 100px;
+    width: 120px;
     height: 40px;
     background-color: #430C48;
     color: white;
