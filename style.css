@@ -89,6 +89,8 @@ body {
 }
 
 #c-txt .c-txt2 p {
+    width: 50px;
+    height: 20px;
     background-color: #2c292c;
     color: white;
     font-size: 30px;
