@@ -110,3 +110,8 @@ body {
     font-size: 40px;
     color: #430C48;
 }
+
+.f-final {
+    display: flex;
+    justify-content: space-around;
+}
