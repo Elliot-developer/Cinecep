@@ -25,7 +25,6 @@ body {
     color: white;
     list-style: none;
     text-transform: uppercase;
-    padding: 12px;
     font-size: 22px;
     border: none;
     text-decoration: none;
@@ -33,7 +32,8 @@ body {
 
 #cabecalho ul a li {
     list-style: none;
-    padding: 10px;
+    width: 200px;
+    height: 20px;
     display: flex;
     justify-content: space-evenly;
 
